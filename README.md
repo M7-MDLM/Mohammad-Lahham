@@ -18,4 +18,5 @@
 ![Laravel](https://img.shields.io/badge/CSS-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?M7-MDLM=M7-MDLM&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7-MDLM&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7-MDLM&layout=compact&theme=radical)
