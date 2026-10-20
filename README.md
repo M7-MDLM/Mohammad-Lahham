@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Mohammad Lahham 👋</h1>
 
 ### Hi there, I'm Your Name
 
-- 🔭 I'm currently working on **Full-stack Web Applications using React & Laravel**.
+- 🔭 I'm currently working on Front End Applications.
 - 🌱 I'm currently learning **Data Structures, Algorithms, and OOP**.
-- 👯 I'm looking to collaborate on **Open Source projects**.
+- 👯 I'm looking for help with Advanced Problem Solving and System Design.
 - 📫 How to reach me: mohabdlahham@gmail.com
 
 ## 🌐 Socials:
