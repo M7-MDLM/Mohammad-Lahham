@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning **Data Structures, Algorithms, and OOP**.
 - 👯 I'm looking to collaborate on **Open Source projects**.
 - 📫 How to reach me: mohabdlahham@gmail.com
-- ⚡ Fun fact: **your fun fact here**
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
