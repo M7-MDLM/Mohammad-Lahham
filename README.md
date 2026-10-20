@@ -1,6 +1,6 @@
 <h1 align="center">Mohammad Lahham 👋</h1>
 
-### Hi there, I'm Your Name
+### Hi there, I'm Mohammad Lahham
 
 - 🔭 I'm currently working on Front End Applications.
 - 🌱 I'm currently learning **Data Structures, Algorithms, and OOP**.
