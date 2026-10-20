@@ -16,3 +16,6 @@
 ![PHP](https://img.shields.io/badge/C-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/JAVA-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/CSS-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
